@@ -1,3 +1,5 @@
 {
-  "authorize": 1
+  "authorize": {
+    "id": 1
+  }
 }
