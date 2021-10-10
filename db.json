@@ -1,7 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    }
-}
+"authorize":
+  {
+    "id": 1,
+  }
